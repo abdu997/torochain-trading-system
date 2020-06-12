@@ -1,0 +1,2002 @@
+[
+    {
+        "Actual": "6392.00",
+        "Predicted": "6392.00"
+    },
+    {
+        "Actual": "6397.00",
+        "Predicted": "6392.00"
+    },
+    {
+        "Actual": "6389.12",
+        "Predicted": "6392.50"
+    },
+    {
+        "Actual": "6398.28",
+        "Predicted": "6392.16"
+    },
+    {
+        "Actual": "6402.55",
+        "Predicted": "6392.77"
+    },
+    {
+        "Actual": "6401.99",
+        "Predicted": "6393.75"
+    },
+    {
+        "Actual": "6395.20",
+        "Predicted": "6394.58"
+    },
+    {
+        "Actual": "6403.70",
+        "Predicted": "6394.64"
+    },
+    {
+        "Actual": "6403.63",
+        "Predicted": "6395.54"
+    },
+    {
+        "Actual": "6401.07",
+        "Predicted": "6396.35"
+    },
+    {
+        "Actual": "6403.71",
+        "Predicted": "6396.82"
+    },
+    {
+        "Actual": "6401.80",
+        "Predicted": "6397.51"
+    },
+    {
+        "Actual": "6401.04",
+        "Predicted": "6397.94"
+    },
+    {
+        "Actual": "6397.29",
+        "Predicted": "6398.25"
+    },
+    {
+        "Actual": "6399.41",
+        "Predicted": "6398.16"
+    },
+    {
+        "Actual": "6398.07",
+        "Predicted": "6398.28"
+    },
+    {
+        "Actual": "6399.50",
+        "Predicted": "6398.26"
+    },
+    {
+        "Actual": "6401.02",
+        "Predicted": "6398.38"
+    },
+    {
+        "Actual": "6401.26",
+        "Predicted": "6398.65"
+    },
+    {
+        "Actual": "6402.28",
+        "Predicted": "6398.91"
+    },
+    {
+        "Actual": "6397.95",
+        "Predicted": "6399.25"
+    },
+    {
+        "Actual": "6395.74",
+        "Predicted": "6399.12"
+    },
+    {
+        "Actual": "6398.76",
+        "Predicted": "6398.78"
+    },
+    {
+        "Actual": "6396.27",
+        "Predicted": "6398.78"
+    },
+    {
+        "Actual": "6400.43",
+        "Predicted": "6398.53"
+    },
+    {
+        "Actual": "6399.52",
+        "Predicted": "6398.72"
+    },
+    {
+        "Actual": "6399.79",
+        "Predicted": "6398.80"
+    },
+    {
+        "Actual": "6399.79",
+        "Predicted": "6398.90"
+    },
+    {
+        "Actual": "6400.00",
+        "Predicted": "6398.99"
+    },
+    {
+        "Actual": "6400.00",
+        "Predicted": "6399.09"
+    },
+    {
+        "Actual": "6399.59",
+        "Predicted": "6399.18"
+    },
+    {
+        "Actual": "6399.63",
+        "Predicted": "6399.22"
+    },
+    {
+        "Actual": "6402.29",
+        "Predicted": "6399.26"
+    },
+    {
+        "Actual": "6403.30",
+        "Predicted": "6399.56"
+    },
+    {
+        "Actual": "6402.74",
+        "Predicted": "6399.94"
+    },
+    {
+        "Actual": "6402.00",
+        "Predicted": "6400.22"
+    },
+    {
+        "Actual": "6400.34",
+        "Predicted": "6400.40"
+    },
+    {
+        "Actual": "6401.41",
+        "Predicted": "6400.39"
+    },
+    {
+        "Actual": "6403.99",
+        "Predicted": "6400.49"
+    },
+    {
+        "Actual": "6404.79",
+        "Predicted": "6400.84"
+    },
+    {
+        "Actual": "6411.01",
+        "Predicted": "6401.24"
+    },
+    {
+        "Actual": "6415.02",
+        "Predicted": "6402.21"
+    },
+    {
+        "Actual": "6410.97",
+        "Predicted": "6403.49"
+    },
+    {
+        "Actual": "6413.87",
+        "Predicted": "6404.24"
+    },
+    {
+        "Actual": "6416.86",
+        "Predicted": "6405.20"
+    },
+    {
+        "Actual": "6418.95",
+        "Predicted": "6406.37"
+    },
+    {
+        "Actual": "6419.58",
+        "Predicted": "6407.63"
+    },
+    {
+        "Actual": "6422.82",
+        "Predicted": "6408.82"
+    },
+    {
+        "Actual": "6422.97",
+        "Predicted": "6410.22"
+    },
+    {
+        "Actual": "6422.02",
+        "Predicted": "6411.50"
+    },
+    {
+        "Actual": "6426.44",
+        "Predicted": "6412.55"
+    },
+    {
+        "Actual": "6425.01",
+        "Predicted": "6413.94"
+    },
+    {
+        "Actual": "6425.01",
+        "Predicted": "6415.05"
+    },
+    {
+        "Actual": "6419.07",
+        "Predicted": "6416.04"
+    },
+    {
+        "Actual": "6419.71",
+        "Predicted": "6416.35"
+    },
+    {
+        "Actual": "6418.64",
+        "Predicted": "6416.68"
+    },
+    {
+        "Actual": "6422.16",
+        "Predicted": "6416.88"
+    },
+    {
+        "Actual": "6420.01",
+        "Predicted": "6417.41"
+    },
+    {
+        "Actual": "6419.49",
+        "Predicted": "6417.67"
+    },
+    {
+        "Actual": "6420.00",
+        "Predicted": "6417.85"
+    },
+    {
+        "Actual": "6421.50",
+        "Predicted": "6418.06"
+    },
+    {
+        "Actual": "6419.73",
+        "Predicted": "6418.41"
+    },
+    {
+        "Actual": "6419.54",
+        "Predicted": "6418.54"
+    },
+    {
+        "Actual": "6419.02",
+        "Predicted": "6418.64"
+    },
+    {
+        "Actual": "6416.69",
+        "Predicted": "6418.68"
+    },
+    {
+        "Actual": "6415.00",
+        "Predicted": "6418.48"
+    },
+    {
+        "Actual": "6415.99",
+        "Predicted": "6418.13"
+    },
+    {
+        "Actual": "6414.99",
+        "Predicted": "6417.92"
+    },
+    {
+        "Actual": "6415.12",
+        "Predicted": "6417.62"
+    },
+    {
+        "Actual": "6414.94",
+        "Predicted": "6417.37"
+    },
+    {
+        "Actual": "6412.63",
+        "Predicted": "6417.13"
+    },
+    {
+        "Actual": "6413.07",
+        "Predicted": "6416.68"
+    },
+    {
+        "Actual": "6414.80",
+        "Predicted": "6416.32"
+    },
+    {
+        "Actual": "6418.67",
+        "Predicted": "6416.17"
+    },
+    {
+        "Actual": "6419.82",
+        "Predicted": "6416.42"
+    },
+    {
+        "Actual": "6421.11",
+        "Predicted": "6416.76"
+    },
+    {
+        "Actual": "6420.00",
+        "Predicted": "6417.19"
+    },
+    {
+        "Actual": "6418.74",
+        "Predicted": "6417.47"
+    },
+    {
+        "Actual": "6416.96",
+        "Predicted": "6417.60"
+    },
+    {
+        "Actual": "6414.02",
+        "Predicted": "6417.54"
+    },
+    {
+        "Actual": "6412.55",
+        "Predicted": "6417.18"
+    },
+    {
+        "Actual": "6410.76",
+        "Predicted": "6416.72"
+    },
+    {
+        "Actual": "6409.98",
+        "Predicted": "6416.13"
+    },
+    {
+        "Actual": "6415.46",
+        "Predicted": "6415.51"
+    },
+    {
+        "Actual": "6413.25",
+        "Predicted": "6415.51"
+    },
+    {
+        "Actual": "6405.66",
+        "Predicted": "6415.28"
+    },
+    {
+        "Actual": "6408.65",
+        "Predicted": "6414.32"
+    },
+    {
+        "Actual": "6407.98",
+        "Predicted": "6413.75"
+    },
+    {
+        "Actual": "6406.27",
+        "Predicted": "6413.17"
+    },
+    {
+        "Actual": "6407.01",
+        "Predicted": "6412.48"
+    },
+    {
+        "Actual": "6408.48",
+        "Predicted": "6411.94"
+    },
+    {
+        "Actual": "6408.65",
+        "Predicted": "6411.59"
+    },
+    {
+        "Actual": "6406.53",
+        "Predicted": "6411.30"
+    },
+    {
+        "Actual": "6406.58",
+        "Predicted": "6410.82"
+    },
+    {
+        "Actual": "6408.01",
+        "Predicted": "6410.40"
+    },
+    {
+        "Actual": "6408.00",
+        "Predicted": "6410.16"
+    },
+    {
+        "Actual": "6409.33",
+        "Predicted": "6409.94"
+    },
+    {
+        "Actual": "6415.06",
+        "Predicted": "6409.88"
+    },
+    {
+        "Actual": "6410.24",
+        "Predicted": "6410.40"
+    },
+    {
+        "Actual": "6408.69",
+        "Predicted": "6410.38"
+    },
+    {
+        "Actual": "6410.19",
+        "Predicted": "6410.21"
+    },
+    {
+        "Actual": "6409.77",
+        "Predicted": "6410.21"
+    },
+    {
+        "Actual": "6408.30",
+        "Predicted": "6410.17"
+    },
+    {
+        "Actual": "6405.66",
+        "Predicted": "6409.98"
+    },
+    {
+        "Actual": "6405.69",
+        "Predicted": "6409.55"
+    },
+    {
+        "Actual": "6401.60",
+        "Predicted": "6409.16"
+    },
+    {
+        "Actual": "6401.56",
+        "Predicted": "6408.41"
+    },
+    {
+        "Actual": "6401.63",
+        "Predicted": "6407.72"
+    },
+    {
+        "Actual": "6401.00",
+        "Predicted": "6407.11"
+    },
+    {
+        "Actual": "6401.33",
+        "Predicted": "6406.50"
+    },
+    {
+        "Actual": "6402.08",
+        "Predicted": "6405.98"
+    },
+    {
+        "Actual": "6402.07",
+        "Predicted": "6405.59"
+    },
+    {
+        "Actual": "6403.01",
+        "Predicted": "6405.24"
+    },
+    {
+        "Actual": "6404.12",
+        "Predicted": "6405.02"
+    },
+    {
+        "Actual": "6404.02",
+        "Predicted": "6404.93"
+    },
+    {
+        "Actual": "6405.68",
+        "Predicted": "6404.84"
+    },
+    {
+        "Actual": "6407.09",
+        "Predicted": "6404.92"
+    },
+    {
+        "Actual": "6406.53",
+        "Predicted": "6405.14"
+    },
+    {
+        "Actual": "6405.33",
+        "Predicted": "6405.28"
+    },
+    {
+        "Actual": "6405.79",
+        "Predicted": "6405.28"
+    },
+    {
+        "Actual": "6407.99",
+        "Predicted": "6405.33"
+    },
+    {
+        "Actual": "6405.87",
+        "Predicted": "6405.60"
+    },
+    {
+        "Actual": "6403.00",
+        "Predicted": "6405.63"
+    },
+    {
+        "Actual": "6397.04",
+        "Predicted": "6405.36"
+    },
+    {
+        "Actual": "6399.88",
+        "Predicted": "6404.53"
+    },
+    {
+        "Actual": "6399.31",
+        "Predicted": "6404.07"
+    },
+    {
+        "Actual": "6399.89",
+        "Predicted": "6403.59"
+    },
+    {
+        "Actual": "6396.62",
+        "Predicted": "6403.22"
+    },
+    {
+        "Actual": "6397.43",
+        "Predicted": "6402.56"
+    },
+    {
+        "Actual": "6396.93",
+        "Predicted": "6402.05"
+    },
+    {
+        "Actual": "6390.02",
+        "Predicted": "6401.54"
+    },
+    {
+        "Actual": "6389.09",
+        "Predicted": "6400.38"
+    },
+    {
+        "Actual": "6391.00",
+        "Predicted": "6399.25"
+    },
+    {
+        "Actual": "6390.07",
+        "Predicted": "6398.43"
+    },
+    {
+        "Actual": "6385.90",
+        "Predicted": "6397.59"
+    },
+    {
+        "Actual": "6391.81",
+        "Predicted": "6396.42"
+    },
+    {
+        "Actual": "6386.25",
+        "Predicted": "6395.96"
+    },
+    {
+        "Actual": "6387.67",
+        "Predicted": "6394.99"
+    },
+    {
+        "Actual": "6387.66",
+        "Predicted": "6394.26"
+    },
+    {
+        "Actual": "6387.04",
+        "Predicted": "6393.60"
+    },
+    {
+        "Actual": "6390.99",
+        "Predicted": "6392.94"
+    },
+    {
+        "Actual": "6390.33",
+        "Predicted": "6392.75"
+    },
+    {
+        "Actual": "6390.31",
+        "Predicted": "6392.51"
+    },
+    {
+        "Actual": "6389.00",
+        "Predicted": "6392.29"
+    },
+    {
+        "Actual": "6387.77",
+        "Predicted": "6391.96"
+    },
+    {
+        "Actual": "6385.54",
+        "Predicted": "6391.54"
+    },
+    {
+        "Actual": "6385.89",
+        "Predicted": "6390.94"
+    },
+    {
+        "Actual": "6386.22",
+        "Predicted": "6390.43"
+    },
+    {
+        "Actual": "6386.99",
+        "Predicted": "6390.01"
+    },
+    {
+        "Actual": "6386.69",
+        "Predicted": "6389.71"
+    },
+    {
+        "Actual": "6381.19",
+        "Predicted": "6389.41"
+    },
+    {
+        "Actual": "6383.50",
+        "Predicted": "6388.59"
+    },
+    {
+        "Actual": "6385.31",
+        "Predicted": "6388.08"
+    },
+    {
+        "Actual": "6382.42",
+        "Predicted": "6387.80"
+    },
+    {
+        "Actual": "6385.31",
+        "Predicted": "6387.26"
+    },
+    {
+        "Actual": "6385.30",
+        "Predicted": "6387.07"
+    },
+    {
+        "Actual": "6385.20",
+        "Predicted": "6386.89"
+    },
+    {
+        "Actual": "6384.90",
+        "Predicted": "6386.72"
+    },
+    {
+        "Actual": "6377.94",
+        "Predicted": "6386.54"
+    },
+    {
+        "Actual": "6375.82",
+        "Predicted": "6385.68"
+    },
+    {
+        "Actual": "6378.99",
+        "Predicted": "6384.69"
+    },
+    {
+        "Actual": "6378.98",
+        "Predicted": "6384.12"
+    },
+    {
+        "Actual": "6379.40",
+        "Predicted": "6383.61"
+    },
+    {
+        "Actual": "6379.99",
+        "Predicted": "6383.19"
+    },
+    {
+        "Actual": "6389.85",
+        "Predicted": "6382.87"
+    },
+    {
+        "Actual": "6389.99",
+        "Predicted": "6383.57"
+    },
+    {
+        "Actual": "6390.05",
+        "Predicted": "6384.21"
+    },
+    {
+        "Actual": "6390.56",
+        "Predicted": "6384.79"
+    },
+    {
+        "Actual": "6388.44",
+        "Predicted": "6385.37"
+    },
+    {
+        "Actual": "6391.00",
+        "Predicted": "6385.68"
+    },
+    {
+        "Actual": "6390.22",
+        "Predicted": "6386.21"
+    },
+    {
+        "Actual": "6391.01",
+        "Predicted": "6386.61"
+    },
+    {
+        "Actual": "6391.01",
+        "Predicted": "6387.05"
+    },
+    {
+        "Actual": "6386.81",
+        "Predicted": "6387.45"
+    },
+    {
+        "Actual": "6386.87",
+        "Predicted": "6387.38"
+    },
+    {
+        "Actual": "6386.00",
+        "Predicted": "6387.33"
+    },
+    {
+        "Actual": "6386.00",
+        "Predicted": "6387.20"
+    },
+    {
+        "Actual": "6384.63",
+        "Predicted": "6387.08"
+    },
+    {
+        "Actual": "6384.61",
+        "Predicted": "6386.83"
+    },
+    {
+        "Actual": "6385.71",
+        "Predicted": "6386.61"
+    },
+    {
+        "Actual": "6386.08",
+        "Predicted": "6386.52"
+    },
+    {
+        "Actual": "6385.99",
+        "Predicted": "6386.48"
+    },
+    {
+        "Actual": "6384.99",
+        "Predicted": "6386.43"
+    },
+    {
+        "Actual": "6383.33",
+        "Predicted": "6386.28"
+    },
+    {
+        "Actual": "6386.06",
+        "Predicted": "6385.99"
+    },
+    {
+        "Actual": "6386.18",
+        "Predicted": "6386.00"
+    },
+    {
+        "Actual": "6385.87",
+        "Predicted": "6386.01"
+    },
+    {
+        "Actual": "6386.10",
+        "Predicted": "6386.00"
+    },
+    {
+        "Actual": "6387.16",
+        "Predicted": "6386.01"
+    },
+    {
+        "Actual": "6387.09",
+        "Predicted": "6386.13"
+    },
+    {
+        "Actual": "6385.29",
+        "Predicted": "6386.22"
+    },
+    {
+        "Actual": "6385.28",
+        "Predicted": "6386.13"
+    },
+    {
+        "Actual": "6384.01",
+        "Predicted": "6386.04"
+    },
+    {
+        "Actual": "6381.61",
+        "Predicted": "6385.84"
+    },
+    {
+        "Actual": "6385.52",
+        "Predicted": "6385.42"
+    },
+    {
+        "Actual": "6383.07",
+        "Predicted": "6385.43"
+    },
+    {
+        "Actual": "6384.13",
+        "Predicted": "6385.19"
+    },
+    {
+        "Actual": "6384.92",
+        "Predicted": "6385.09"
+    },
+    {
+        "Actual": "6384.22",
+        "Predicted": "6385.07"
+    },
+    {
+        "Actual": "6384.45",
+        "Predicted": "6384.98"
+    },
+    {
+        "Actual": "6383.55",
+        "Predicted": "6384.93"
+    },
+    {
+        "Actual": "6382.05",
+        "Predicted": "6384.79"
+    },
+    {
+        "Actual": "6381.89",
+        "Predicted": "6384.52"
+    },
+    {
+        "Actual": "6381.84",
+        "Predicted": "6384.26"
+    },
+    {
+        "Actual": "6380.76",
+        "Predicted": "6384.01"
+    },
+    {
+        "Actual": "6378.74",
+        "Predicted": "6383.69"
+    },
+    {
+        "Actual": "6380.00",
+        "Predicted": "6383.19"
+    },
+    {
+        "Actual": "6380.30",
+        "Predicted": "6382.87"
+    },
+    {
+        "Actual": "6379.01",
+        "Predicted": "6382.62"
+    },
+    {
+        "Actual": "6379.67",
+        "Predicted": "6382.26"
+    },
+    {
+        "Actual": "6382.35",
+        "Predicted": "6382.00"
+    },
+    {
+        "Actual": "6380.30",
+        "Predicted": "6382.03"
+    },
+    {
+        "Actual": "6382.49",
+        "Predicted": "6381.86"
+    },
+    {
+        "Actual": "6382.34",
+        "Predicted": "6381.92"
+    },
+    {
+        "Actual": "6380.17",
+        "Predicted": "6381.96"
+    },
+    {
+        "Actual": "6391.21",
+        "Predicted": "6381.78"
+    },
+    {
+        "Actual": "6390.69",
+        "Predicted": "6382.73"
+    },
+    {
+        "Actual": "6396.97",
+        "Predicted": "6383.52"
+    },
+    {
+        "Actual": "6396.59",
+        "Predicted": "6384.87"
+    },
+    {
+        "Actual": "6402.92",
+        "Predicted": "6386.04"
+    },
+    {
+        "Actual": "6399.92",
+        "Predicted": "6387.73"
+    },
+    {
+        "Actual": "6398.43",
+        "Predicted": "6388.95"
+    },
+    {
+        "Actual": "6403.77",
+        "Predicted": "6389.90"
+    },
+    {
+        "Actual": "6401.25",
+        "Predicted": "6391.28"
+    },
+    {
+        "Actual": "6403.68",
+        "Predicted": "6392.28"
+    },
+    {
+        "Actual": "6405.66",
+        "Predicted": "6393.42"
+    },
+    {
+        "Actual": "6401.18",
+        "Predicted": "6394.64"
+    },
+    {
+        "Actual": "6403.67",
+        "Predicted": "6395.30"
+    },
+    {
+        "Actual": "6401.73",
+        "Predicted": "6396.13"
+    },
+    {
+        "Actual": "6401.42",
+        "Predicted": "6396.69"
+    },
+    {
+        "Actual": "6401.98",
+        "Predicted": "6397.17"
+    },
+    {
+        "Actual": "6400.15",
+        "Predicted": "6397.65"
+    },
+    {
+        "Actual": "6399.92",
+        "Predicted": "6397.90"
+    },
+    {
+        "Actual": "6398.13",
+        "Predicted": "6398.10"
+    },
+    {
+        "Actual": "6399.14",
+        "Predicted": "6398.10"
+    },
+    {
+        "Actual": "6399.95",
+        "Predicted": "6398.21"
+    },
+    {
+        "Actual": "6398.05",
+        "Predicted": "6398.38"
+    },
+    {
+        "Actual": "6398.10",
+        "Predicted": "6398.35"
+    },
+    {
+        "Actual": "6397.96",
+        "Predicted": "6398.32"
+    },
+    {
+        "Actual": "6397.30",
+        "Predicted": "6398.29"
+    },
+    {
+        "Actual": "6397.29",
+        "Predicted": "6398.19"
+    },
+    {
+        "Actual": "6398.09",
+        "Predicted": "6398.10"
+    },
+    {
+        "Actual": "6400.98",
+        "Predicted": "6398.10"
+    },
+    {
+        "Actual": "6398.77",
+        "Predicted": "6398.39"
+    },
+    {
+        "Actual": "6400.98",
+        "Predicted": "6398.42"
+    },
+    {
+        "Actual": "6403.01",
+        "Predicted": "6398.68"
+    },
+    {
+        "Actual": "6403.02",
+        "Predicted": "6399.11"
+    },
+    {
+        "Actual": "6400.00",
+        "Predicted": "6399.50"
+    },
+    {
+        "Actual": "6398.13",
+        "Predicted": "6399.55"
+    },
+    {
+        "Actual": "6398.16",
+        "Predicted": "6399.41"
+    },
+    {
+        "Actual": "6398.19",
+        "Predicted": "6399.29"
+    },
+    {
+        "Actual": "6397.58",
+        "Predicted": "6399.18"
+    },
+    {
+        "Actual": "6401.93",
+        "Predicted": "6399.02"
+    },
+    {
+        "Actual": "6400.62",
+        "Predicted": "6399.31"
+    },
+    {
+        "Actual": "6403.58",
+        "Predicted": "6399.44"
+    },
+    {
+        "Actual": "6403.90",
+        "Predicted": "6399.85"
+    },
+    {
+        "Actual": "6403.03",
+        "Predicted": "6400.26"
+    },
+    {
+        "Actual": "6403.50",
+        "Predicted": "6400.54"
+    },
+    {
+        "Actual": "6403.45",
+        "Predicted": "6400.83"
+    },
+    {
+        "Actual": "6404.30",
+        "Predicted": "6401.09"
+    },
+    {
+        "Actual": "6405.01",
+        "Predicted": "6401.41"
+    },
+    {
+        "Actual": "6405.01",
+        "Predicted": "6401.77"
+    },
+    {
+        "Actual": "6400.10",
+        "Predicted": "6402.10"
+    },
+    {
+        "Actual": "6400.09",
+        "Predicted": "6401.90"
+    },
+    {
+        "Actual": "6403.02",
+        "Predicted": "6401.72"
+    },
+    {
+        "Actual": "6400.14",
+        "Predicted": "6401.85"
+    },
+    {
+        "Actual": "6400.18",
+        "Predicted": "6401.68"
+    },
+    {
+        "Actual": "6403.96",
+        "Predicted": "6401.53"
+    },
+    {
+        "Actual": "6400.05",
+        "Predicted": "6401.77"
+    },
+    {
+        "Actual": "6397.97",
+        "Predicted": "6401.60"
+    },
+    {
+        "Actual": "6405.04",
+        "Predicted": "6401.24"
+    },
+    {
+        "Actual": "6405.92",
+        "Predicted": "6401.62"
+    },
+    {
+        "Actual": "6404.60",
+        "Predicted": "6402.05"
+    },
+    {
+        "Actual": "6402.40",
+        "Predicted": "6402.30"
+    },
+    {
+        "Actual": "6402.68",
+        "Predicted": "6402.31"
+    },
+    {
+        "Actual": "6401.55",
+        "Predicted": "6402.35"
+    },
+    {
+        "Actual": "6401.25",
+        "Predicted": "6402.27"
+    },
+    {
+        "Actual": "6399.37",
+        "Predicted": "6402.17"
+    },
+    {
+        "Actual": "6401.25",
+        "Predicted": "6401.89"
+    },
+    {
+        "Actual": "6402.33",
+        "Predicted": "6401.82"
+    },
+    {
+        "Actual": "6402.76",
+        "Predicted": "6401.87"
+    },
+    {
+        "Actual": "6400.64",
+        "Predicted": "6401.96"
+    },
+    {
+        "Actual": "6400.33",
+        "Predicted": "6401.83"
+    },
+    {
+        "Actual": "6395.43",
+        "Predicted": "6401.68"
+    },
+    {
+        "Actual": "6394.00",
+        "Predicted": "6401.06"
+    },
+    {
+        "Actual": "6390.86",
+        "Predicted": "6400.35"
+    },
+    {
+        "Actual": "6397.63",
+        "Predicted": "6399.40"
+    },
+    {
+        "Actual": "6395.01",
+        "Predicted": "6399.22"
+    },
+    {
+        "Actual": "6394.03",
+        "Predicted": "6398.80"
+    },
+    {
+        "Actual": "6392.55",
+        "Predicted": "6398.33"
+    },
+    {
+        "Actual": "6387.51",
+        "Predicted": "6397.75"
+    },
+    {
+        "Actual": "6387.56",
+        "Predicted": "6396.72"
+    },
+    {
+        "Actual": "6388.01",
+        "Predicted": "6395.81"
+    },
+    {
+        "Actual": "6387.00",
+        "Predicted": "6395.03"
+    },
+    {
+        "Actual": "6386.77",
+        "Predicted": "6394.22"
+    },
+    {
+        "Actual": "6386.82",
+        "Predicted": "6393.48"
+    },
+    {
+        "Actual": "6388.47",
+        "Predicted": "6392.81"
+    },
+    {
+        "Actual": "6386.01",
+        "Predicted": "6392.38"
+    },
+    {
+        "Actual": "6385.02",
+        "Predicted": "6391.74"
+    },
+    {
+        "Actual": "6386.24",
+        "Predicted": "6391.07"
+    },
+    {
+        "Actual": "6391.34",
+        "Predicted": "6390.59"
+    },
+    {
+        "Actual": "6393.00",
+        "Predicted": "6390.66"
+    },
+    {
+        "Actual": "6395.90",
+        "Predicted": "6390.90"
+    },
+    {
+        "Actual": "6392.01",
+        "Predicted": "6391.40"
+    },
+    {
+        "Actual": "6396.99",
+        "Predicted": "6391.46"
+    },
+    {
+        "Actual": "6392.36",
+        "Predicted": "6392.01"
+    },
+    {
+        "Actual": "6395.96",
+        "Predicted": "6392.05"
+    },
+    {
+        "Actual": "6391.16",
+        "Predicted": "6392.44"
+    },
+    {
+        "Actual": "6389.13",
+        "Predicted": "6392.31"
+    },
+    {
+        "Actual": "6384.97",
+        "Predicted": "6391.99"
+    },
+    {
+        "Actual": "6384.98",
+        "Predicted": "6391.29"
+    },
+    {
+        "Actual": "6388.00",
+        "Predicted": "6390.66"
+    },
+    {
+        "Actual": "6389.88",
+        "Predicted": "6390.39"
+    },
+    {
+        "Actual": "6388.20",
+        "Predicted": "6390.34"
+    },
+    {
+        "Actual": "6389.82",
+        "Predicted": "6390.13"
+    },
+    {
+        "Actual": "6390.04",
+        "Predicted": "6390.10"
+    },
+    {
+        "Actual": "6392.35",
+        "Predicted": "6390.09"
+    },
+    {
+        "Actual": "6390.33",
+        "Predicted": "6390.32"
+    },
+    {
+        "Actual": "6391.31",
+        "Predicted": "6390.32"
+    },
+    {
+        "Actual": "6387.01",
+        "Predicted": "6390.42"
+    },
+    {
+        "Actual": "6390.93",
+        "Predicted": "6390.08"
+    },
+    {
+        "Actual": "6388.14",
+        "Predicted": "6390.16"
+    },
+    {
+        "Actual": "6390.16",
+        "Predicted": "6389.96"
+    },
+    {
+        "Actual": "6390.16",
+        "Predicted": "6389.98"
+    },
+    {
+        "Actual": "6390.99",
+        "Predicted": "6390.00"
+    },
+    {
+        "Actual": "6389.89",
+        "Predicted": "6390.10"
+    },
+    {
+        "Actual": "6388.37",
+        "Predicted": "6390.08"
+    },
+    {
+        "Actual": "6387.00",
+        "Predicted": "6389.91"
+    },
+    {
+        "Actual": "6388.36",
+        "Predicted": "6389.62"
+    },
+    {
+        "Actual": "6385.34",
+        "Predicted": "6389.49"
+    },
+    {
+        "Actual": "6389.76",
+        "Predicted": "6389.07"
+    },
+    {
+        "Actual": "6389.76",
+        "Predicted": "6389.14"
+    },
+    {
+        "Actual": "6390.16",
+        "Predicted": "6389.20"
+    },
+    {
+        "Actual": "6391.05",
+        "Predicted": "6389.30"
+    },
+    {
+        "Actual": "6393.00",
+        "Predicted": "6389.48"
+    },
+    {
+        "Actual": "6392.58",
+        "Predicted": "6389.83"
+    },
+    {
+        "Actual": "6391.52",
+        "Predicted": "6390.10"
+    },
+    {
+        "Actual": "6391.51",
+        "Predicted": "6390.24"
+    },
+    {
+        "Actual": "6392.48",
+        "Predicted": "6390.37"
+    },
+    {
+        "Actual": "6391.02",
+        "Predicted": "6390.58"
+    },
+    {
+        "Actual": "6391.78",
+        "Predicted": "6390.63"
+    },
+    {
+        "Actual": "6391.01",
+        "Predicted": "6390.74"
+    },
+    {
+        "Actual": "6392.80",
+        "Predicted": "6390.77"
+    },
+    {
+        "Actual": "6392.54",
+        "Predicted": "6390.97"
+    },
+    {
+        "Actual": "6392.21",
+        "Predicted": "6391.13"
+    },
+    {
+        "Actual": "6388.01",
+        "Predicted": "6391.24"
+    },
+    {
+        "Actual": "6387.53",
+        "Predicted": "6390.91"
+    },
+    {
+        "Actual": "6385.47",
+        "Predicted": "6390.58"
+    },
+    {
+        "Actual": "6389.29",
+        "Predicted": "6390.06"
+    },
+    {
+        "Actual": "6389.27",
+        "Predicted": "6389.99"
+    },
+    {
+        "Actual": "6389.46",
+        "Predicted": "6389.92"
+    },
+    {
+        "Actual": "6390.00",
+        "Predicted": "6389.87"
+    },
+    {
+        "Actual": "6386.08",
+        "Predicted": "6389.88"
+    },
+    {
+        "Actual": "6386.05",
+        "Predicted": "6389.50"
+    },
+    {
+        "Actual": "6389.30",
+        "Predicted": "6389.16"
+    },
+    {
+        "Actual": "6389.92",
+        "Predicted": "6389.17"
+    },
+    {
+        "Actual": "6389.95",
+        "Predicted": "6389.25"
+    },
+    {
+        "Actual": "6392.99",
+        "Predicted": "6389.32"
+    },
+    {
+        "Actual": "6390.00",
+        "Predicted": "6389.68"
+    },
+    {
+        "Actual": "6387.01",
+        "Predicted": "6389.72"
+    },
+    {
+        "Actual": "6388.99",
+        "Predicted": "6389.45"
+    },
+    {
+        "Actual": "6388.90",
+        "Predicted": "6389.40"
+    },
+    {
+        "Actual": "6390.94",
+        "Predicted": "6389.35"
+    },
+    {
+        "Actual": "6385.05",
+        "Predicted": "6389.51"
+    },
+    {
+        "Actual": "6389.01",
+        "Predicted": "6389.06"
+    },
+    {
+        "Actual": "6390.23",
+        "Predicted": "6389.06"
+    },
+    {
+        "Actual": "6390.37",
+        "Predicted": "6389.17"
+    },
+    {
+        "Actual": "6393.00",
+        "Predicted": "6389.29"
+    },
+    {
+        "Actual": "6392.99",
+        "Predicted": "6389.66"
+    },
+    {
+        "Actual": "6392.99",
+        "Predicted": "6390.00"
+    },
+    {
+        "Actual": "6393.00",
+        "Predicted": "6390.30"
+    },
+    {
+        "Actual": "6393.00",
+        "Predicted": "6390.57"
+    },
+    {
+        "Actual": "6398.99",
+        "Predicted": "6390.81"
+    },
+    {
+        "Actual": "6402.52",
+        "Predicted": "6391.63"
+    },
+    {
+        "Actual": "6403.59",
+        "Predicted": "6392.72"
+    },
+    {
+        "Actual": "6406.76",
+        "Predicted": "6393.80"
+    },
+    {
+        "Actual": "6409.94",
+        "Predicted": "6395.10"
+    },
+    {
+        "Actual": "6402.66",
+        "Predicted": "6396.58"
+    },
+    {
+        "Actual": "6399.99",
+        "Predicted": "6397.19"
+    },
+    {
+        "Actual": "6398.04",
+        "Predicted": "6397.47"
+    },
+    {
+        "Actual": "6404.22",
+        "Predicted": "6397.53"
+    },
+    {
+        "Actual": "6402.05",
+        "Predicted": "6398.20"
+    },
+    {
+        "Actual": "6402.02",
+        "Predicted": "6398.58"
+    },
+    {
+        "Actual": "6401.26",
+        "Predicted": "6398.93"
+    },
+    {
+        "Actual": "6397.92",
+        "Predicted": "6399.16"
+    },
+    {
+        "Actual": "6398.50",
+        "Predicted": "6399.04"
+    },
+    {
+        "Actual": "6398.65",
+        "Predicted": "6398.98"
+    },
+    {
+        "Actual": "6399.00",
+        "Predicted": "6398.95"
+    },
+    {
+        "Actual": "6402.76",
+        "Predicted": "6398.95"
+    },
+    {
+        "Actual": "6399.99",
+        "Predicted": "6399.33"
+    },
+    {
+        "Actual": "6400.00",
+        "Predicted": "6399.40"
+    },
+    {
+        "Actual": "6399.98",
+        "Predicted": "6399.46"
+    },
+    {
+        "Actual": "6400.41",
+        "Predicted": "6399.51"
+    },
+    {
+        "Actual": "6403.26",
+        "Predicted": "6399.60"
+    },
+    {
+        "Actual": "6405.04",
+        "Predicted": "6399.97"
+    },
+    {
+        "Actual": "6404.91",
+        "Predicted": "6400.48"
+    },
+    {
+        "Actual": "6405.05",
+        "Predicted": "6400.92"
+    },
+    {
+        "Actual": "6403.03",
+        "Predicted": "6401.33"
+    },
+    {
+        "Actual": "6405.00",
+        "Predicted": "6401.50"
+    },
+    {
+        "Actual": "6403.20",
+        "Predicted": "6401.85"
+    },
+    {
+        "Actual": "6401.99",
+        "Predicted": "6401.99"
+    },
+    {
+        "Actual": "6400.01",
+        "Predicted": "6401.99"
+    },
+    {
+        "Actual": "6400.91",
+        "Predicted": "6401.79"
+    },
+    {
+        "Actual": "6398.23",
+        "Predicted": "6401.70"
+    },
+    {
+        "Actual": "6400.00",
+        "Predicted": "6401.35"
+    },
+    {
+        "Actual": "6398.46",
+        "Predicted": "6401.22"
+    },
+    {
+        "Actual": "6399.97",
+        "Predicted": "6400.94"
+    },
+    {
+        "Actual": "6397.01",
+        "Predicted": "6400.85"
+    },
+    {
+        "Actual": "6398.00",
+        "Predicted": "6400.46"
+    },
+    {
+        "Actual": "6398.00",
+        "Predicted": "6400.22"
+    },
+    {
+        "Actual": "6396.11",
+        "Predicted": "6399.99"
+    },
+    {
+        "Actual": "6394.03",
+        "Predicted": "6399.61"
+    },
+    {
+        "Actual": "6398.93",
+        "Predicted": "6399.05"
+    },
+    {
+        "Actual": "6398.50",
+        "Predicted": "6399.04"
+    },
+    {
+        "Actual": "6401.78",
+        "Predicted": "6398.98"
+    },
+    {
+        "Actual": "6399.00",
+        "Predicted": "6399.26"
+    },
+    {
+        "Actual": "6399.00",
+        "Predicted": "6399.24"
+    },
+    {
+        "Actual": "6400.00",
+        "Predicted": "6399.21"
+    },
+    {
+        "Actual": "6399.98",
+        "Predicted": "6399.29"
+    },
+    {
+        "Actual": "6399.93",
+        "Predicted": "6399.36"
+    },
+    {
+        "Actual": "6399.97",
+        "Predicted": "6399.42"
+    },
+    {
+        "Actual": "6401.82",
+        "Predicted": "6399.47"
+    },
+    {
+        "Actual": "6405.87",
+        "Predicted": "6399.71"
+    },
+    {
+        "Actual": "6400.91",
+        "Predicted": "6400.32"
+    },
+    {
+        "Actual": "6400.36",
+        "Predicted": "6400.38"
+    },
+    {
+        "Actual": "6400.41",
+        "Predicted": "6400.38"
+    },
+    {
+        "Actual": "6402.17",
+        "Predicted": "6400.38"
+    },
+    {
+        "Actual": "6402.00",
+        "Predicted": "6400.56"
+    },
+    {
+        "Actual": "6402.03",
+        "Predicted": "6400.71"
+    },
+    {
+        "Actual": "6404.96",
+        "Predicted": "6400.84"
+    },
+    {
+        "Actual": "6402.10",
+        "Predicted": "6401.25"
+    },
+    {
+        "Actual": "6397.86",
+        "Predicted": "6401.34"
+    },
+    {
+        "Actual": "6397.90",
+        "Predicted": "6400.99"
+    },
+    {
+        "Actual": "6395.16",
+        "Predicted": "6400.68"
+    },
+    {
+        "Actual": "6397.82",
+        "Predicted": "6400.13"
+    },
+    {
+        "Actual": "6397.83",
+        "Predicted": "6399.90"
+    },
+    {
+        "Actual": "6400.02",
+        "Predicted": "6399.69"
+    },
+    {
+        "Actual": "6398.36",
+        "Predicted": "6399.72"
+    },
+    {
+        "Actual": "6399.81",
+        "Predicted": "6399.59"
+    },
+    {
+        "Actual": "6399.98",
+        "Predicted": "6399.61"
+    },
+    {
+        "Actual": "6399.99",
+        "Predicted": "6399.65"
+    },
+    {
+        "Actual": "6398.01",
+        "Predicted": "6399.68"
+    },
+    {
+        "Actual": "6399.99",
+        "Predicted": "6399.51"
+    },
+    {
+        "Actual": "6399.70",
+        "Predicted": "6399.56"
+    },
+    {
+        "Actual": "6399.99",
+        "Predicted": "6399.57"
+    },
+    {
+        "Actual": "6402.09",
+        "Predicted": "6399.62"
+    },
+    {
+        "Actual": "6402.12",
+        "Predicted": "6399.86"
+    },
+    {
+        "Actual": "6402.13",
+        "Predicted": "6400.09"
+    },
+    {
+        "Actual": "6402.20",
+        "Predicted": "6400.29"
+    },
+    {
+        "Actual": "6401.85",
+        "Predicted": "6400.48"
+    },
+    {
+        "Actual": "6403.57",
+        "Predicted": "6400.62"
+    },
+    {
+        "Actual": "6400.19",
+        "Predicted": "6400.92"
+    },
+    {
+        "Actual": "6402.99",
+        "Predicted": "6400.84"
+    },
+    {
+        "Actual": "6402.13",
+        "Predicted": "6401.06"
+    },
+    {
+        "Actual": "6403.79",
+        "Predicted": "6401.16"
+    },
+    {
+        "Actual": "6406.99",
+        "Predicted": "6401.43"
+    },
+    {
+        "Actual": "6406.99",
+        "Predicted": "6401.98"
+    },
+    {
+        "Actual": "6407.08",
+        "Predicted": "6402.48"
+    },
+    {
+        "Actual": "6408.00",
+        "Predicted": "6402.94"
+    },
+    {
+        "Actual": "6407.05",
+        "Predicted": "6403.45"
+    },
+    {
+        "Actual": "6410.61",
+        "Predicted": "6403.81"
+    },
+    {
+        "Actual": "6409.99",
+        "Predicted": "6404.49"
+    },
+    {
+        "Actual": "6410.00",
+        "Predicted": "6405.04"
+    },
+    {
+        "Actual": "6409.50",
+        "Predicted": "6405.54"
+    },
+    {
+        "Actual": "6410.82",
+        "Predicted": "6405.93"
+    },
+    {
+        "Actual": "6410.61",
+        "Predicted": "6406.42"
+    },
+    {
+        "Actual": "6409.98",
+        "Predicted": "6406.84"
+    },
+    {
+        "Actual": "6409.99",
+        "Predicted": "6407.15"
+    },
+    {
+        "Actual": "6413.14",
+        "Predicted": "6407.44"
+    },
+    {
+        "Actual": "6411.00",
+        "Predicted": "6408.01"
+    },
+    {
+        "Actual": "6411.05",
+        "Predicted": "6408.31"
+    },
+    {
+        "Actual": "6412.98",
+        "Predicted": "6408.58"
+    },
+    {
+        "Actual": "6413.00",
+        "Predicted": "6409.02"
+    },
+    {
+        "Actual": "6411.06",
+        "Predicted": "6409.42"
+    },
+    {
+        "Actual": "6407.10",
+        "Predicted": "6409.58"
+    },
+    {
+        "Actual": "6406.87",
+        "Predicted": "6409.33"
+    },
+    {
+        "Actual": "6409.53",
+        "Predicted": "6409.09"
+    },
+    {
+        "Actual": "6406.91",
+        "Predicted": "6409.13"
+    },
+    {
+        "Actual": "6410.89",
+        "Predicted": "6408.91"
+    },
+    {
+        "Actual": "6410.00",
+        "Predicted": "6409.11"
+    },
+    {
+        "Actual": "6411.00",
+        "Predicted": "6409.20"
+    },
+    {
+        "Actual": "6411.66",
+        "Predicted": "6409.38"
+    },
+    {
+        "Actual": "6411.00",
+        "Predicted": "6409.61"
+    },
+    {
+        "Actual": "6411.01",
+        "Predicted": "6409.75"
+    },
+    {
+        "Actual": "6411.01",
+        "Predicted": "6409.87"
+    },
+    {
+        "Actual": "6410.75",
+        "Predicted": "6409.99"
+    },
+    {
+        "Actual": "6410.26",
+        "Predicted": "6410.06"
+    },
+    {
+        "Actual": "6410.41",
+        "Predicted": "6410.08"
+    },
+    {
+        "Actual": "6408.87",
+        "Predicted": "6410.11"
+    },
+    {
+        "Actual": "6406.01",
+        "Predicted": "6409.99"
+    },
+    {
+        "Actual": "6408.64",
+        "Predicted": "6409.59"
+    },
+    {
+        "Actual": "6402.02",
+        "Predicted": "6409.50"
+    },
+    {
+        "Actual": "6404.03",
+        "Predicted": "6408.75"
+    },
+    {
+        "Actual": "6398.44",
+        "Predicted": "6408.28"
+    },
+    {
+        "Actual": "6397.91",
+        "Predicted": "6407.29"
+    },
+    {
+        "Actual": "6395.00",
+        "Predicted": "6406.36"
+    },
+    {
+        "Actual": "6393.46",
+        "Predicted": "6405.22"
+    },
+    {
+        "Actual": "6388.99",
+        "Predicted": "6404.04"
+    },
+    {
+        "Actual": "6391.50",
+        "Predicted": "6402.54"
+    },
+    {
+        "Actual": "6389.31",
+        "Predicted": "6401.43"
+    }
+]

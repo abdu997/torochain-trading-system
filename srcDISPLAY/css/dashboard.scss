@@ -1,0 +1,584 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+$mainColor: #88c140;
+$boldSecondaryColor: #474a50;
+$secondaryColor: #212628;
+$lightColor: #f9f9f9;
+$backgroundColor: #f1f7f9;
+$inputMargin: 10px 0;
+$white: #ffffff;
+$boxShadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
+$border: 1px solid #d1d2d4;
+
+body {
+  background: $backgroundColor;
+  font-family: 'Lato', sans-serif;
+}
+
+.error-page-logo {
+  height: 250px;
+}
+
+.no-margin {
+  margin: 0;
+}
+
+.inline {
+  display: inline;
+}
+
+#passwordreset {
+  width: 300px;
+  margin: 0 auto;
+}
+
+.narrow-buttom {
+  height: 25px;
+  margin: 0 0 0 10px;
+  padding: 0 10px;
+  font-size: 12px;
+}
+
+.loader-backgroud {
+  background: $backgroundColor;
+  z-index: 4;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+
+  .loader {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    z-index: 1;
+    width: 75px;
+    height: 75px;
+    margin: -75px 0 0 -75px;
+    border: 10px solid $boldSecondaryColor;
+    border-radius: 50%;
+    border-top: 10px solid $mainColor;
+    -webkit-animation: spin 2s linear infinite;
+    animation: spin 2s linear infinite;
+  }
+  /* Safari */
+  @-webkit-keyframes spin {
+    0% { -webkit-transform: rotate(0deg); }
+    100% { -webkit-transform: rotate(360deg); }
+  }
+
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+}
+
+.code-share {
+  margin-top: 20px;
+
+  .fa {
+    font-size: 40px;
+    margin: 0 40px;
+  }
+  .fa:hover {
+    color: $mainColor;
+    cursor: pointer;
+  }
+
+  a {
+    color: $secondaryColor;
+  }
+}
+
+p {
+  margin-bottom: 0;
+}
+
+#orderPolicyModal {
+  .modal-content {
+    border-radius: 0;
+  }
+  .modal-dialog {
+    max-width: 800px;
+  }
+  .policy-box {
+    padding: 5px;
+    min-height: 250px;
+    overflow-y: auto;
+    border: $border;
+    filter: grayscale(100%);
+    font-size: 12px;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+}
+
+.form-control,
+.rectangle-select{
+  height: 25px;
+  display: inline;
+  width: 49%;
+  background: $white;
+  border-radius: 0;
+}
+
+.rectangle-select {
+  border-radius: 1px;
+  border: $border;
+  margin: 0;
+
+  .full-width {
+    margin: 0;
+  }
+  select {
+    margin-left: -1px;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #495057;
+  }
+}
+
+
+label {
+  margin-bottom: 0;
+  font-size: 12px;
+  font-weight: 700;
+  display: block;
+}
+
+.input-group-addon {
+  border: $border;
+  height: 25px;
+  display: inline;
+  font-size: 15px;
+  padding: 1px;
+}
+
+.field-info {
+  border-left: 0;
+  background: #e9ecef;
+}
+
+.field-info > .fa-question-circle {
+  margin-right: 2px;
+  color: $mainColor;
+}
+
+.with-tooltip {
+  border-right: 0;
+}
+
+select {
+  border: 0px;
+  outline: 0px;
+  background: transparent;
+}
+
+.toro-token {
+  width: 15px;
+  padding-bottom: 5px;
+}
+
+.logo {
+  height: 75px;
+}
+
+.side-nav {
+  background: $secondaryColor;
+  width: 250px;
+  position: fixed;
+  height: 100%;
+  color: white;
+
+  .logo {
+    height: 150px;
+    margin: 0 auto;
+  }
+
+  .token-count {
+    width: 100%;
+    background: $boldSecondaryColor;
+    td {
+      padding: 10px;
+    }
+    .token-icon {
+      width: 40px;
+    }
+    .token-title {
+      font-size: 13px;
+    }
+    .token-quantity {
+      font-size: 20px
+    }
+    h5 {
+      font-size: 15px;
+    }
+    span {
+      display: block;
+    }
+  }
+  .side-nav-list {
+    margin-top: 20px;
+    list-style: none;
+    padding: 0;
+    color: $white;
+    font-size: 14px;
+    a {
+      color: $white;
+    }
+    .side-nav-item {
+      padding: 10px;
+      border-left: 5px solid transparent;
+      cursor: pointer;
+
+      .nav-item-icon {
+        width: 20px;
+        margin-right: 10px;
+      }
+    }
+    .side-nav-item:hover {
+      border-left: 5px solid $mainColor;
+      background: $boldSecondaryColor;
+    }
+    .side-nav-item.active {
+      border-left: 5px solid $mainColor;
+      background: $boldSecondaryColor;
+    }
+  }
+  .close-nav {
+    display: none;
+    background: $mainColor;
+  }
+  .close-icon {
+    font-size: 20px;
+    margin: 0 12px 0 2px;
+  }
+}
+
+.top-nav {
+  width: 100%;
+  height: 75px;
+  background: #f5f8f8;
+  border-bottom: 2px solid #c6c9cb;
+  padding: 15px;
+
+  .nav-open-button {
+    display: none;
+    font-size: 25px;
+    margin: 5px 20px 0 0;
+    cursor: pointer;
+  }
+
+  .left {
+    display: inline-flex;
+    .page-name {
+      font-size: 18px;
+      color: #1d313c;
+    }
+    .welcome {
+      font-size: 14px;
+      color: #3d464e;
+      display: block;
+    }
+    @media (max-width: 470px) {
+      .welcome {
+        display: none;
+      }
+      .page-name {
+        font-size: 15px;
+      }
+    }
+  }
+  .right {
+    right: 15px;
+    top: 15px;
+    position: absolute;
+    .user-name {
+      font-size: 20px;
+      display: inline-block;
+      text-transform: capitalize;
+      .member-type {
+        font-size: 13px;
+        display: block;
+      }
+    }
+    .top-nav-icon {
+      margin-right: 10px;
+      display: inline;
+
+      .icon {
+        font-size: 22px;
+        margin: 0 10px;
+      }
+    }
+  }
+}
+
+.box {
+  background: $white;
+  border: $border;
+  padding: 20px;
+  color: $boldSecondaryColor;
+  margin: 10px 0;
+
+  .box-header {
+    font-size: 18px;
+    color: #1d313c;
+  }
+}
+
+.table {
+  overflow-x: auto;
+  margin-top: 15px;
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  td,
+  th {
+    text-align: left;
+    padding: 8px;
+    color: $secondaryColor;
+    font-size: 14px;
+  }
+  th {
+    height: 30px
+  }
+  tr:nth-child(even),
+  th {
+    background-color: #d1d2d4;
+  }
+}
+
+.refresh-button {
+  float: right;
+  border: 0;
+  font-size: 12px;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+.page-body {
+  margin: 0 0 0 250px;
+}
+
+@media (max-width: 992px) {
+  .top-nav {
+    margin-left: 0;
+    .nav-open-button {
+      display: block;
+    }
+  }
+  .side-nav {
+    display: none;
+  }
+  .side-nav.active {
+    display: block;
+    z-index: 1;
+  }
+  .side-nav-item.close-nav {
+    display: block;
+  }
+  .page-body {
+    margin: 0;
+  }
+}
+
+*:focus {
+  outline: none;
+}
+
+.user-perk-badge {
+  width: 150px;
+}
+
+.login-logo {
+  margin: 25px auto;
+}
+
+.form {
+  border: 1px solid grey;
+  padding: 20px;
+  margin: 20px;
+}
+
+.login-select {
+  border: none;
+  -webkit-border-radius: 0px;
+  -webkit-appearance: none;
+  padding: 10px;
+  text-transform: capitalize;
+  border: $border;
+  background: $lightColor;
+}
+
+.full-width,
+.loginDropdown  {
+  width: 100%;
+  left: 0;
+  margin: $inputMargin;
+}
+
+.half-width {
+  width: 50%;
+  left: 0;
+  margin: $inputMargin;
+}
+
+
+.notice-box {
+  color: $lightColor;
+  background: $secondaryColor;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+.notice-icon {
+  color: $mainColor;
+  font-size: 28px;
+}
+
+.notice-message {
+  margin-left: 5px;
+  display: inline-block;
+}
+
+.location-dropdown {
+  display: inline;
+}
+
+input,
+button {
+  border: none;
+  padding: 10px;
+  text-transform: capitalize;
+  background: $lightColor;
+  border: $border;
+}
+
+.no-capitalize,
+input[type=email] {
+  text-transform: none;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+input[type=submit],
+button {
+  background: $secondaryColor;
+  color: $lightColor;
+}
+
+input[type=submit]:hover,
+button:hover {
+  cursor: pointer;
+  background: $mainColor;
+  color: $lightColor;
+}
+
+a {
+  color: $mainColor;
+}
+
+a:hover {
+  color: $secondaryColor;
+  text-decoration: none;
+}
+
+/* The container */
+
+.account-checkboxes {
+  margin-top: 10px;
+}
+
+.checkbox-field {
+  display: block;
+  position: relative;
+  padding-left: 35px;
+  margin-bottom: 12px;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+
+  p {
+    font-size: 14px;
+    font-weight: 500;
+  }
+}
+
+/* Hide the browser's default checkbox */
+
+.checkbox-field input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+}
+
+/* Create a custom checkbox */
+
+.checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 25px;
+  width: 25px;
+  border: $border;
+  background: $lightColor;
+}
+
+.radio {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 20px;
+  width: 20px;
+  border-radius: 10px;
+  border: $border;
+  background: $lightColor;
+}
+
+/* Create the checkmark/indicator (hidden when not checked) */
+
+.checkmark:after,
+.radio:after{
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+/* Show the checkmark when checked */
+
+.checkbox-field input:checked~.checkmark:after,
+.checkbox-field input:checked~.radio:after {
+  display: block;
+}
+
+/* Style the checkmark/indicator */
+
+.checkbox-field .checkmark:after {
+  left: 9px;
+  top: 5px;
+  width: 5px;
+  height: 10px;
+  border: solid $mainColor;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+.checkbox-field .radio:after {
+  left: 7px;
+  top: 4px;
+  width: 5px;
+  height: 10px;
+  border: solid $mainColor;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}

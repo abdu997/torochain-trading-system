@@ -1,0 +1,764 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+$mainColor: #88c140;
+$boldSecondaryColor: #474a50;
+$secondaryColor: #212628;
+$lightColor: #f9f9f9;
+$backgroundColor: #f1f7f9;
+$red: #e74c3c;
+$inputMargin: 10px 0;
+$white: #ffffff;
+$boxShadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
+$border: 1px solid #d1d2d4;
+
+.maintenance-page-body {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #212628;
+  margin-top: 10%;
+
+  .logo-bg {
+    background: #212628;
+    width: 100%;
+    padding: 20px 0;
+    text-align: center;
+  }
+  .logo {
+    height: 200px;
+    margin: auto 0;
+  }
+  .message {
+    text-align: center;
+    p {
+      margin:20px 0;
+    }
+  }
+  .action {
+    padding: 10px 20px;
+    background: #212628;
+    text-transform: capitalize;
+    color: white;
+    border-radius: 0;
+  }
+  .action:hover {
+    background: #88c140;
+  }
+}
+
+
+body {
+  background: $backgroundColor;
+  font-family: 'Lato', sans-serif;
+  margin: 0;
+}
+
+.error-page-logo {
+  height: 250px;
+}
+
+.no-margin {
+  margin: 0;
+}
+
+.inline {
+  display: inline;
+}
+
+.submit-loader {
+  margin-right: 5px;
+}
+
+.transfer-notice {
+  font-size: 12px;
+}
+
+#passwordreset {
+  width: 300px;
+  margin: 0 auto;
+}
+
+.narrow-buttom {
+  height: 25px;
+  margin-left: 10px;
+  padding: 0 10px;
+  font-size: 12px;
+}
+
+.loader-backgroud {
+  background: $backgroundColor;
+  z-index: 4;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+
+  .loader {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    z-index: 1;
+    width: 75px;
+    height: 75px;
+    margin: -75px 0 0 -75px;
+    border: 10px solid $boldSecondaryColor;
+    border-radius: 50%;
+    border-top: 10px solid $mainColor;
+    -webkit-animation: spin 2s linear infinite;
+    animation: spin 2s linear infinite;
+  }
+  /* Safari */
+  @-webkit-keyframes spin {
+    0% { -webkit-transform: rotate(0deg); }
+    100% { -webkit-transform: rotate(360deg); }
+  }
+
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+}
+
+.code-share {
+  margin-top: 20px;
+
+  .fa {
+    font-size: 40px;
+    margin: 0 40px;
+  }
+  .fa:hover {
+    color: $mainColor;
+    cursor: pointer;
+  }
+
+  a {
+    color: $secondaryColor;
+  }
+}
+
+p {
+  margin-bottom: 0;
+}
+
+#orderPolicyModal {
+  .modal-content {
+    border-radius: 0;
+  }
+  .modal-dialog {
+    max-width: 800px;
+  }
+  .policy-box {
+    padding: 5px;
+    min-height: 250px;
+    overflow-y: auto;
+    border: $border;
+    filter: grayscale(100%);
+    font-size: 12px;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+}
+
+.form-control,
+.rectangle-select{
+  height: 25px;
+  display: inline;
+  width: 49%;
+  background: $white;
+  border-radius: 0;
+}
+
+.rectangle-select {
+  border-radius: 1px;
+  border: $border;
+  margin: 0;
+
+  .full-width {
+    margin: 0;
+  }
+  select {
+    margin-left: -1px;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #495057;
+  }
+}
+
+label {
+  margin-bottom: 0;
+  font-size: 12px;
+  font-weight: 700;
+  display: block;
+}
+
+.required-input {
+  color: $red;
+  font-size: 10px;
+  margin-left: 5px;
+}
+
+.input-group-addon {
+  border: $border;
+  height: 25px;
+  display: inline;
+  font-size: 15px;
+  padding: 1px;
+}
+
+.field-info {
+  border-left: 0;
+  background: #e9ecef;
+}
+
+.field-info > .fa-question-circle {
+  margin-right: 2px;
+  color: $mainColor;
+}
+
+.with-tooltip {
+  border-right: 0;
+}
+
+select {
+  border: 0px;
+  outline: 0px;
+  background: transparent;
+}
+
+.toro-token {
+  width: 15px;
+  padding-bottom: 5px;
+}
+
+.logo {
+  height: 75px;
+}
+
+.side-nav {
+  background: $secondaryColor;
+  width: 250px;
+  position: fixed;
+  height: 100%;
+  color: white;
+
+  .logo {
+    height: 150px;
+    margin: 0 auto;
+  }
+
+  .token-count {
+    width: 100%;
+    background: $boldSecondaryColor;
+    td {
+      padding: 10px;
+    }
+    .token-icon {
+      width: 40px;
+    }
+    .token-title {
+      font-size: 13px;
+    }
+    .token-quantity {
+      font-size: 20px
+    }
+    .portfolio-amount {
+      text-align-last: center;
+      font-size: 22px;
+    }
+    h5 {
+      font-size: 15px;
+    }
+    span {
+      display: block;
+    }
+  }
+  .side-nav-list {
+    margin-top: 20px;
+    list-style: none;
+    padding: 0;
+    color: $white;
+    font-size: 14px;
+    a {
+      color: $white;
+      text-decoration: none;
+    }
+    .side-nav-item {
+      padding: 10px;
+      border-left: 5px solid transparent;
+      cursor: pointer;
+
+      .nav-item-icon {
+        width: 20px;
+        margin-right: 10px;
+      }
+    }
+    .side-nav-item:hover {
+      border-left: 5px solid $mainColor;
+      background: $boldSecondaryColor;
+    }
+    .side-nav-item.active {
+      border-left: 5px solid $mainColor;
+      background: $boldSecondaryColor;
+    }
+  }
+  .close-nav {
+    display: none;
+    background: $mainColor;
+  }
+  .close-icon {
+    font-size: 20px;
+    margin: 0 12px 0 2px;
+  }
+}
+
+.top-nav {
+  height: 75px;
+  background: #ededed;
+  border-bottom: 1px solid #c6c9cb;
+  padding: 15px;
+
+  .nav-open-button {
+    display: none;
+    font-size: 25px;
+    margin: 5px 20px 0 0;
+    cursor: pointer;
+  }
+
+  .left {
+    display: inline-flex;
+    .page-name {
+      font-size: 18px;
+      color: #1d313c;
+    }
+    .welcome {
+      font-size: 14px;
+      color: #3d464e;
+      display: block;
+    }
+    @media (max-width: 470px) {
+      .welcome {
+        display: none;
+      }
+      .page-name {
+        font-size: 15px;
+      }
+    }
+  }
+  .right {
+    right: 15px;
+    top: 15px;
+    position: absolute;
+    .user-name {
+      font-size: 20px;
+      display: inline-block;
+      text-transform: capitalize;
+      .member-type {
+        font-size: 13px;
+        display: block;
+      }
+    }
+    .top-nav-icon {
+      margin-right: 10px;
+      display: inline;
+
+      .icon {
+        font-size: 22px;
+        margin: 0 10px;
+      }
+    }
+  }
+}
+
+.box {
+  background: $white;
+  border: $border;
+  padding: 20px;
+  color: $boldSecondaryColor;
+  margin: 10px 0;
+
+  .box-header {
+    font-size: 18px;
+    color: #1d313c;
+  }
+}
+
+.table {
+  margin-top: 15px;
+  margin-bottom: 0;
+  text-transform: capitalize;
+
+  label {
+    margin-right: 10px;
+  }
+
+  thead,
+  tfoot {
+    input {
+      height: 15px;
+      width: 100%;
+      border: 0;
+      font-size: 10px;
+      padding: 0 0 0 3px;
+    }
+    select {
+      color: $white;
+      width: 100%;
+    }
+    th {
+      padding: 5px;
+      font-size: 13px;
+      color: $white;
+      background: $secondaryColor;
+      border: 1px solid $secondaryColor;
+      font-weight: 500;
+
+      .table-link {
+        cursor: pointer;
+        color: $mainColor;
+      }
+      .table-link:hover {
+        color: $white;
+      }
+    }
+  }
+  tbody {
+    tr {
+      border: 1px solid #D9DEE4;
+    }
+    tr:hover {
+      border: 1px solid $mainColor;
+    }
+    tr.active {
+      border: 3px solid $mainColor;
+    }
+    tr:nth-of-type(odd) {
+      background: #f2f2f2;
+    }
+    tr:nth-of-type(even){
+      background: $white;
+    }
+  }
+  td {
+    padding: 5px;
+    font-size: 14px;
+  }
+  .table-link {
+    cursor: pointer;
+    color: $mainColor;
+  }
+  .table-link:hover {
+    color: $secondaryColor;
+  }
+  .table-link.disabled,
+  .table-link.disabled:hover {
+    color: grey;
+    cursor: not-allowed;
+  }
+}
+
+.profit {
+  color: $mainColor;
+}
+
+.loss {
+  color: $red;
+}
+
+.mini-button {
+  font-size: 10px;
+  text-transform: capitalize;
+  background: $mainColor;
+  color: $white;
+  text-shadow: 1px 1px 1px $secondaryColor;
+  border: 0;
+  padding: 0 4px;
+}
+
+.tab {
+  width: 150px;
+  height: 30px;
+  overflow: hidden;
+  float: left;
+  margin: 15px -15px 0 0;
+}
+
+.tab-box {
+  height: 50px;
+  background: $mainColor;
+  border-radius: 1px;
+  margin: 0 10px 0 2px;
+
+  .title {
+    color: $white;
+    text-shadow: 1px 1px 1px $secondaryColor;
+    padding: 8px;
+    font-size: 14px;
+  }
+
+  -webkit-transform: perspective(100px) rotateX(30deg);
+  -moz-transform: perspective(100px) rotateX(30deg);
+}
+
+.refresh-button {
+  float: right;
+  border: 0;
+  font-size: 12px;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+.page-body {
+  margin-left: 250px;
+}
+
+@media (max-width: 992px) {
+  .top-nav {
+    margin-left: 0;
+    .nav-open-button {
+      display: block;
+    }
+  }
+  .side-nav {
+    display: none;
+  }
+  .side-nav.active {
+    display: block;
+    z-index: 1;
+  }
+  .side-nav-item.close-nav {
+    display: block;
+  }
+  .page-body {
+    margin: 0;
+  }
+}
+
+*:focus {
+  outline: none;
+}
+
+.user-perk-badge {
+  width: 150px;
+}
+
+.login-logo {
+  margin: 25px auto 0 auto;
+}
+
+.login-form {
+  width: 300px;
+  margin: 0 auto;
+}
+
+.login-select {
+  border: none;
+  -webkit-border-radius: 0px;
+  -webkit-appearance: none;
+  padding: 10px;
+  text-transform: capitalize;
+  border: $border;
+  background: $lightColor;
+}
+
+.full-width,
+.loginDropdown  {
+  width: 100%;
+  left: 0;
+  margin: $inputMargin;
+}
+
+.half-width {
+  width: 50%;
+  left: 0;
+  margin: $inputMargin;
+}
+
+.notice-box {
+  color: $lightColor;
+  background: $secondaryColor;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+.notice-icon {
+  color: $mainColor;
+  font-size: 28px;
+}
+
+.notice-message {
+  margin-left: 5px;
+  display: inline-block;
+}
+
+.location-dropdown {
+  display: inline;
+}
+
+input,
+button {
+  border: none;
+  padding: 10px;
+  text-transform: capitalize;
+  background: $lightColor;
+  border: $border;
+}
+
+button:disabled {
+  cursor: not-allowed;
+  background: grey;
+}
+
+.no-capitalize,
+input[type=email] {
+  text-transform: none;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.capitalize {
+  text-transform: capitalize;
+}
+
+input[type=submit],
+button {
+  background: $secondaryColor;
+  color: $lightColor;
+  border: 0;
+}
+
+input[type=submit]:hover,
+button:hover {
+  cursor: pointer;
+  background: $mainColor;
+  color: $lightColor;
+}
+
+a {
+  color: $mainColor;
+}
+
+a:hover {
+  color: $secondaryColor;
+  text-decoration: none;
+}
+
+/* The container */
+
+.account-checkboxes {
+  margin-top: 10px;
+}
+
+.checkbox-field {
+  display: block;
+  position: relative;
+  padding-left: 35px;
+  margin-bottom: 12px;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+
+  p {
+    font-size: 14px;
+    font-weight: 500;
+  }
+}
+
+/* Hide the browser's default checkbox */
+
+.checkbox-field input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+}
+
+/* Create a custom checkbox */
+
+.checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 25px;
+  width: 25px;
+  border: $border;
+  background: $lightColor;
+}
+
+.radio {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 20px;
+  width: 20px;
+  border-radius: 10px;
+  border: $border;
+  background: $lightColor;
+}
+
+/* Create the checkmark/indicator (hidden when not checked) */
+
+.checkmark:after,
+.radio:after{
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+/* Show the checkmark when checked */
+
+.checkbox-field input:checked~.checkmark:after,
+.checkbox-field input:checked~.radio:after {
+  display: block;
+}
+
+/* Style the checkmark/indicator */
+
+.checkbox-field .checkmark:after {
+  left: 9px;
+  top: 5px;
+  width: 5px;
+  height: 10px;
+  border: solid $mainColor;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+.checkbox-field .radio:after {
+  left: 7px;
+  top: 4px;
+  width: 5px;
+  height: 10px;
+  border: solid $mainColor;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.chart-wrapper {
+  margin-top: 20px;
+  box-shadow: $boxShadow;
+  background: #dee2e6;
+}
+
+.chart-selectors {
+  background: $secondaryColor;
+  color: $white;
+  padding: 5px 0;
+
+  .selector {
+    display: inline;
+    margin: 0 15px;
+
+    select {
+      color: $white;
+    }
+  }
+}
